@@ -3,7 +3,7 @@
 ## How to
 First run the below command
 ### `npm install`
-This will install all the dependencies and load all the node_modules into your project.
+This will install all the dependencies and load all the node_modules into your project. Run all commands in the frontend repo.
 
 Next run the next command to start the server.
 ### `npm start`
