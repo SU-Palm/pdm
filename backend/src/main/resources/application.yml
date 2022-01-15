@@ -1,0 +1,10 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+  datasource:
+    url: "jdbc:postgresql://localhost:5432/interview-db"
+    username: postgres
+    password: password
+# Enter your corresponding users credentials and replace the postgres database name and port number in url
