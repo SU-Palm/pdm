@@ -20,5 +20,5 @@ into the file [resources\application.yml]().
 
 YOU MUST RUN THE BACKEND FIRST.
 
-##Software Requirements
+## Software Requirements
 java 17.0.1se - Java required.
