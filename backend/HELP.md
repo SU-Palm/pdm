@@ -3,6 +3,9 @@
 ## How to Run
 Gradle Commands (Run all commands within backend directory)
 
+* First run: gradlew build
+* Next run: gradlew bootRun
+
 * To build any changes [gradlew clean build]()
 * To run the application: [gradlew bootRun]()
 
