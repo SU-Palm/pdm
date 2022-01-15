@@ -13,3 +13,6 @@ If you made any changes to the project run the below command to rebuild the proj
 ### `npm build`
 
 MUST RUN BACKEND BEFORE RUNNING FRONTEND
+
+## Software Requirements
+npm@8.1.2
